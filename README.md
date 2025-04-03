@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nezuruby
-- 🌱 I’m currently learning php laravel and python
+- 🌱 I’m currently learning QA 
 - 📫 How to reach me Email: rubinarai31@gmail.com  
 - ⚡ Fun fact: can fit in kids clothes >_<
 
